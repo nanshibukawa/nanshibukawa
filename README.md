@@ -1,4 +1,4 @@
-# Hi there, I'm Renan Akio Shibukawa! 👋
+# Hi there, I'm Renan Shibukawa! 👋
 
 ### Junior Machine Learning Engineer | M.Sc. Student in Computer Science (AI) | Mechanical Engineer
 
