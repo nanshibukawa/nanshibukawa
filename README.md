@@ -1,6 +1,6 @@
 # Hi there, I'm Renan Shibukawa! 👋
 
-### Junior Machine Learning Engineer | M.Sc. Student in Computer Science (AI) | Mechanical Engineer
+### Machine Learning Engineer | Data Scientist | M.Sc. Student in Computer Science (AI) | Mechanical Engineer
 
 I am a **Junior Machine Learning Engineer at Tractian**, where I develop **NLP** and data analysis solutions for industrial maintenance. My background uniquely combines the technical rigor of Mechanical Engineering with the transformative power of Artificial Intelligence.
 
