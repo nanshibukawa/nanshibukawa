@@ -1,37 +1,26 @@
-# Hi there, I'm Renan Shibukawa! 👋
+# Hi, I'm Renan Akio Shibukawa 👋
 
-### Machine Learning Engineer | Data Scientist | M.Sc. Student in Computer Science (AI) | Mechanical Engineer
-
-I am a **Junior Machine Learning Engineer at Tractian**, where I develop **NLP** and data analysis solutions for industrial maintenance. My background uniquely combines the technical rigor of Mechanical Engineering with the transformative power of Artificial Intelligence.
+I am a Machine Learning Engineer and M.Sc. student focused on bridging the gap between **Mechanical Engineering** and **Artificial Intelligence**. My work is centered on building intelligent systems that solve real-world industrial challenges.
 
 ---
 
-### 🛠️ What I Do
-* **NLP & Data Science:** Implementing Natural Language Processing solutions and large-scale data extraction (>270k industrial assets) using techniques like *word embeddings*.
-* **Deep Learning:** Experience with **TensorFlow**, **Keras**, and **PyTorch** for classification and computer vision tasks.
-* **Tech Stack:** Python (Pandas, NumPy, Scikit-Learn), Streamlit, Power BI, and SQL.
-* **Industrial Intelligence:** Focused on making industrial processes smarter and data-driven to optimize asset management.
+### 🚀 Featured Projects (Proof of Work)
+* **[Nome do Projeto de NLP]:** Developed a pipeline to extract and process 270k+ industrial asset records using word embeddings.
+* **[Real Estate Prediction]:** End-to-end regression model from Web Scraping to deployment.
+* **[CoreXY 3D Printer]:** Engineering meets Code—Hardware design and firmware optimization for large-scale printing.
 
-### 🎓 Education & Research
-* **M.Sc. in Computer Science (Computational Intelligence)** – UTFPR-CP (Expected May 2026).
-* **B.S. in Mechanical Engineering** – UTFPR-Curitiba.
-* **Residency in AI Applied to Industry** – SENAI Hub Londrina.
-
-### 🚀 Key Projects
-* **Real Estate Price Prediction:** Regression model using real-world data extracted via Web Scraping to predict property values.
-* **COREXY 3D Printer:** Designed and assembled a large-scale (500x500mm) 3D printer for academic research and development.
+### 🧪 Research & Lab Work
+* **Master's Thesis:** Researching Computational Intelligence at UTFPR-CP (Defense: 2026).
+* **Applied Data Science Lab:** Currently sharpening my skills at WorldQuant University.
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanshibukawa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nanshibukawa&layout=compact&theme=radical)
+### 🛠️ Technical Toolkit
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL.
+* **AI/ML:** TensorFlow, PyTorch, Keras, NLP, Computer Vision.
+* **Mechanical/Industrial:** Industrial Maintenance, Asset Management, CAD/CAM.
 
 ---
 
-### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/nanshibukawa](https://www.linkedin.com/in/nanshibukawa/)
-* **Email:** shibukawa@alunos.utfpr.edu.br
-
----
-*"Leveraging Artificial Intelligence to transform industrial maintenance."*
+### 📊 My GitHub Journey
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanshibukawa&layout=compact&theme=radical)
