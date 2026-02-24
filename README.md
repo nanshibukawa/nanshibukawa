@@ -1,6 +1,6 @@
 # Hi, I'm Renan Akio Shibukawa! 👋
 
-**Machine Learning Engineer | Data Scientist | M.Sc. Candidate in Computational Intelligence**
+**Machine Learning Engineer | Data Scientist | M.Sc. in Computational Intelligence (UTFPR)**
 
 I am a Machine Learning Engineer passionate about developing end-to-end solutions, from large-scale data extraction to AI orchestration and the automation of complex processes. Currently, I am pursuing a Professional Master's degree in Computer Science (Computational Intelligence) at UTFPR, where my research focuses on Deep Learning and Edge AI applied to agriculture (AgTech).
 
@@ -23,8 +23,8 @@ Development of a highly efficient Computer Vision system designed to identify le
 ### 🏭 GenAI and NLP Solutions for Maintenance 
 Engineered a distributed Web Scraping pipeline processing over 1 million assets. Orchestrated multiple LLMs to extract intelligence from unstructured technical manuals (PDFs) via a RAG architecture, automating the generation of maintenance procedures and reducing the time required to access critical technical specifications.
 
-### 🏠 Real Estate Price Prediction
-A personal Data Science project covering the entire lifecycle: real data collection via scraping, data cleaning, feature engineering, Exploratory Data Analysis (EDA), and predictive regression modeling. *(🔗 https://www.kaggle.com/code/renanakioshibukawa/price-prediction-regression-model-analysis | https://github.com/nanshibukawa/curitiba_realstate)*
+### 🏠 Real Estate Price Prediction: [Kaggle](https://www.kaggle.com/code/renanakioshibukawa/price-prediction-regression-model-analysis) | [Github](https://github.com/nanshibukawa/curitiba_realstate))
+A personal Data Science project covering the entire lifecycle: real data collection via scraping, data cleaning, feature engineering, Exploratory Data Analysis (EDA), and predictive regression modeling.
 
 ### 🛠️ In-Progress: Production-Ready AI Engineering
 Specialization at DevEficiente – Focused on building scalable and reliable AI systems.
