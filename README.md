@@ -23,7 +23,7 @@ Development of a highly efficient Computer Vision system designed to identify le
 ### 🏭 GenAI and NLP Solutions for Maintenance 
 Engineered a distributed Web Scraping pipeline processing over 1 million assets. Orchestrated multiple LLMs to extract intelligence from unstructured technical manuals (PDFs) via a RAG architecture, automating the generation of maintenance procedures and reducing the time required to access critical technical specifications.
 
-### 🏠 Real Estate Price Prediction: [Kaggle](https://www.kaggle.com/code/renanakioshibukawa/price-prediction-regression-model-analysis) | [Github](https://github.com/nanshibukawa/curitiba_realstate))
+### 🏠 Real Estate Price Prediction: [Kaggle](https://www.kaggle.com/code/renanakioshibukawa/price-prediction-regression-model-analysis) | [Github](https://github.com/nanshibukawa/curitiba_realstate)
 A personal Data Science project covering the entire lifecycle: real data collection via scraping, data cleaning, feature engineering, Exploratory Data Analysis (EDA), and predictive regression modeling.
 
 ### 🛠️ In-Progress: Production-Ready AI Engineering
